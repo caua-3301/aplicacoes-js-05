@@ -9,6 +9,8 @@ Olá, apresento a vocês essa aplicação web desenvolvida com o objetivo de fin
 
 #### Instalações
 Para utilizar do simulador de servidor json, instale o pacote json-server, através do npm  `npm i -g json-server`, utilize a flag `-g` para a instalação global (recomendável) <br> <br>
-Uma vez instalado, basta iniciar o servidor e utilizar a aplicação com `json-server --watch ./database/db.json` ou, apenas `npm start`;
+Uma vez instalado, basta iniciar o servidor e utilizar a aplicação com `json-server --watch ./database/db.json` ou, apenas `npm start`; <br> <br>
+
+Para saber mais sobre o pacote json-server acesse: https://www.npmjs.com/package/json-server <br>
 
 #### Valeu seres humanos! até a próxima - caua-3301
