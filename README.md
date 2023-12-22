@@ -4,8 +4,11 @@ Olá, apresento a vocês essa aplicação web desenvolvida com o objetivo de fin
 ### Como utilizar 
 #### Prepare os diretórios
 1 - `mkdir diretorio-qualquer; cd diretorio-qualquer`; <br>
-2 - `git clone `
-Para instalar o simulador de servidor, instale o pacote json-server, através do npm <br>
-`npm i -g json-server` <br>
-Utilize a flag `-g` para q a instalação global (recomendável) <br>
-Uma vez instalado 
+2 - `git clone https://github.com/caua-3301/aplicacoes-js-05.git`; <br>
+3 - `cd aplicacoes-js-05`; <br>
+
+#### Instalações
+Para utilizar do simulador de servidor json, instale o pacote json-server, através do npm  `npm i -g json-server`, utilize a flag `-g` para a instalação global (recomendável) <br> <br>
+Uma vez instalado, basta iniciar o servidor e utilizar a aplicação com `json-server --watch ./database/db.json` ou, apenas `npm start`;
+
+#### Valeu seres humanos! até a próxima - caua-3301
